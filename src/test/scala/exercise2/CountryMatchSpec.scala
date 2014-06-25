@@ -1,8 +1,8 @@
 package exercise2
 
 /**
-First: Write your tests in a similar manner to the previous exercise
-Second: Write your production code in the CountryMatcher class to satisfy the written tests (this is real test driven development)"
+Write tests in a similar manner to the previous exercise. In this example Write a test, satisfy it, refactor, write a test, satisfy it, refactor and so on
+Write your production code in the CountryMatcher class to satisfy the written tests - this is real test driven development"
  */
 
 import spec.UnitSpec

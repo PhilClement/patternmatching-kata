@@ -2,7 +2,8 @@ package exercise1
 
 /**
 Write tests to satisfy the below conditions
-As a starting point you will need a new instance of the NameMatch class to access the find method
+As a starting point you will need a new instance of the NameMatch class to access the find method.
+Import the class NameMatch using import exercise1patternmatch.NameMatch
  */
 
 import spec.UnitSpec

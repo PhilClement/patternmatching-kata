@@ -1,5 +1,5 @@
 package exercise2patternmatch
 
 class CountryMatch {
-  //After the tests have been fully written in CountryMatchSpec write a method to satisfy them
+  //Please write your first test in CountryMatchSpec before entering any production code
 }
