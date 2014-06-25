@@ -4,9 +4,9 @@ class NameMatch {
 
   def find(name: String): String = {
     name match {
-      case "James" => "James has been found"
-      case "Helen" => "Helen has been found"
-      case "Garnet" => "Garnet has been found"
+      case "James" => s"$name has been found"
+      case "Helen" => s"$name has been found"
+      case "Garnet" => s"$name has been found"
       case _ => s"$name has not been found"
     }
   }
